@@ -18,7 +18,19 @@ markdown_extensions:
 
 nav:
   - 前言: 
-    - '介绍': 'index.md'
+    - '社区介绍': 'index.md'
+    - '整体框架': 'framework.md'
+
+  - 兼容性: 
+    - '基础知识': 'compatibility/base.md'
+    - '库兼容': 'compatibility/crate.md'
+    - '类型兼容': 'compatibility/type.md'
+    - 'RUST CALL C': 'compatibility/rust_call_c.md'
+
+  - 基础类型:
+    - 'RUST CALL C': 'type/rust_call_c.md'
+  - 并发:
+
 
  # - RUST for Linux:
 
