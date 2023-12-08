@@ -27,9 +27,7 @@ nav:
     - '类型兼容': 'compatibility/type.md'
     - 'RUST CALL C': 'compatibility/rust_call_c.md'
 
-  - 基础类型:
-    - 'RUST CALL C': 'type/rust_call_c.md'
-  - 并发:
+ # - 并发:
 
 
  # - RUST for Linux:
