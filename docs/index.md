@@ -41,10 +41,11 @@ Rust for linux 社区旨在为 linux 使用RUST语言替代C语言开发成为�
 
 邮件系统的使用符合linux 的邮件格式，更多内容参考linux内核关于[邮件](https://subspace.kernel.org/etiquette.html)的描述
 
-常用信息
+参考链接: 
+
 [maintainers](https://docs.kernel.org/process/maintainers.html#rust)
 
-[配置git 使用gmail](https://geek-docs.com/git/git-questions/98_git_how_to_configure_and_use_git_sendemail_to_work_with_gmail_to_email_patches_to_developers.html)
+[配置git使用gmail](https://geek-docs.com/git/git-questions/98_git_how_to_configure_and_use_git_sendemail_to_work_with_gmail_to_email_patches_to_developers.html)
 
 [clawmail使用gmail](https://www.claws-mail.org/faq/index.php/Using_Claws_Mail_with_Gmail)
 
